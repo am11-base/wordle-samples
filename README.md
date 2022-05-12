@@ -1,2 +1,2 @@
 # wordle-samples
-Self solved wordle answers
+Self solved wordles
